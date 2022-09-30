@@ -19,6 +19,8 @@
 
 //CODE HERE
 
+let gitHubDefinition = 'Website that stores repos and can be accessed by others.'
+
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +28,8 @@
 */
 
 //CODE HERE
+
+let gitInitDefinition = 'Creates new git repo.'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -35,6 +39,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = 'Make a clone or copy of that repo at in a new directory, at another location.'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +48,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = 'Lets you know if repo is in staging area.'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +62,10 @@
 
 //CODE HERE
 
+let gitAddDefinition = 'Adds changes to the staging area.'
+
+let gitAddCode = 'git add .'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +77,9 @@
 
 //CODE HERE
 
+let gitCommitDefinition = 'Create snapshot of repos changes.'
+
+let gitCommitCode = 'git commit -m"initial commit"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +88,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = 'Upload repo to github'
