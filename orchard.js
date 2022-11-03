@@ -124,7 +124,7 @@ let days = 0
 while (acresLeft > 0){
     console.log(acresLeft-=3)
     }
-    
+    console.log(days=acresLeft)
 
 // PROBLEM 4
 

@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = 'A free program in which you can add, edit, save code. You can access gits on github.'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
